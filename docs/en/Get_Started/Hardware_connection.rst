@@ -96,7 +96,7 @@ Note:
           * RX
     * - AT command/response :sup:`2`
       - UART1
-          * GPIO12 (RX)
+          * GPIO35 (RX)
           * GPIO17 (TX)
           * GPIO15 (CTS)
           * GPIO14 (RTS)
@@ -259,7 +259,7 @@ Note:
           * RX
     * - AT command/response :sup:`2`
       - UART1
-          * GPIO12 (RX)
+          * GPIO35 (RX)
           * GPIO17 (TX)
           * GPIO15 (CTS)
           * GPIO14 (RTS)
