@@ -96,7 +96,7 @@
           * RX
     * - AT 命令/响应 :sup:`2`
       - UART1
-          * GPIO16 (RX)
+          * GPIO12 (RX)
           * GPIO17 (TX)
           * GPIO15 (CTS)
           * GPIO14 (RTS)
@@ -259,7 +259,7 @@
           * RX
     * - AT 命令/响应 :sup:`2`
       - UART1
-          * GPIO16 (RX)
+          * GPIO12 (RX)
           * GPIO17 (TX)
           * GPIO15 (CTS)
           * GPIO14 (RTS)
