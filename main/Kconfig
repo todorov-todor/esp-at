@@ -337,7 +337,7 @@ config AT_OTA_SUPPORT
 
 config AT_OTA_SERVER_IP
     string "Server IP for AT OTA."
-    default "iot.espressif.cn"
+    default "iot.big-pin.com/esp"
     depends on AT_OTA_SUPPORT
 
 config AT_OTA_SERVER_PORT
@@ -347,7 +347,7 @@ config AT_OTA_SERVER_PORT
 
 config AT_OTA_TOKEN_KEY
     string "The token for AT OTA."
-    default "dd93253c287f725de50d4071a05dd28b72056ca7"
+    default "dd93253c24071a05dd28b72087f725de50d56ca7"
     depends on AT_OTA_SUPPORT
 
 config AT_OTA_SSL_SUPPORT
