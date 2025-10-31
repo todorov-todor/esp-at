@@ -185,6 +185,8 @@ CONFIG_MDNS_PREDEF_NETIF_ETH=y
 # end of mDNS
 # end of Component config
 
+CONFIG_AT_WEB_SERVER_SUPPORT=y
+
 # Application manager
 CONFIG_APP_PROJECT_VER_FROM_CONFIG=y
 CONFIG_APP_PROJECT_VER="v4.2.0.0-dev"
